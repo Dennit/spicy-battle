@@ -41,6 +41,7 @@ exports.login = function(request, response){
 					"age": 0,
 					"sex": "N/A",
 					"experience": 0,
+					"shake":1,
 					"calories_burnt_total":0,
 					"calories_burnt_current":0,
           "c_hp": 100,
