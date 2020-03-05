@@ -49,7 +49,8 @@ exports.SignIn = function(request, response) {
 										"experienceNextLevel": 10,
 										"experienceGain": 15,
 									"calories_burnt_total":0,
-									"calories_burnt_current":0
+									"calories_burnt_current":0,
+									"shake":1
 
 						},
 				"workout":{
